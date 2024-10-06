@@ -1,0 +1,13 @@
+api/bin/
+api/build/
+
+api/go/bin/
+api/go/pkg/
+
+vendor/
+
+*.log
+*.tmp
+*.temp
+
+.env
